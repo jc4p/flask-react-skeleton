@@ -1,7 +1,7 @@
 {
-  "name": "photo-booth-texter",
+  "name": "flask-react-skeleton",
   "version": "0.10.0",
-  "description": "Flask powered React app for Dropbox photos --> picture message",
+  "description": "React front-end for your Flask backend",
   "scripts": {
     "start": "babel-node server.js",
     "dev": "concurrently -k 'babel-node devserver.js' 'python main.py'"
@@ -22,13 +22,14 @@
     "babel-preset-stage-0": "^6.5.0",
     "concurrently": "^2.2.0",
     "css-loader": "^0.23.1",
+    "chokidar": "^1.6.1",
     "express": "^4.14.0",
-    "less": "^2.7.1",
-    "less-loader": "^2.2.3",
     "moment": "^2.14.1",
+    "node-sass": "^3.10.1",
     "postcss-loader": "^0.9.1",
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
+    "sass-loader": "^4.0.2",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.1",
     "webpack-dev-middleware": "^1.6.1",

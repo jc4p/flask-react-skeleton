@@ -25,7 +25,7 @@
     "chokidar": "^1.6.1",
     "express": "^4.14.0",
     "moment": "^2.14.1",
-    "node-sass": "^3.10.1",
+    "node-sass": "^4.13.1",
     "postcss-loader": "^0.9.1",
     "react": "^15.3.0",
     "react-dom": "^15.3.0",

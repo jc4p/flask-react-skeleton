@@ -7,4 +7,4 @@ requests==2.11.1
 six==1.10.0
 typing==3.5.2.2
 urllib3==1.16
-Werkzeug==0.11.10
+Werkzeug==0.15.3

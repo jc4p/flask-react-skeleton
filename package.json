@@ -23,7 +23,7 @@
     "concurrently": "^2.2.0",
     "css-loader": "^0.23.1",
     "chokidar": "^1.6.1",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "moment": "^2.14.1",
     "node-sass": "^3.10.1",
     "postcss-loader": "^0.9.1",
